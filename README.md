@@ -94,5 +94,6 @@ Doctor's Specialty, Patient Satisfaction </br>
 4. **Enhance Data-Driven Decision-Making** with predictive analytics and real-time dashboards to monitor patient trends and outcomes.
 
 ## Dashboard and Analysis
+The Dashboard and analysis can be viewed [here](https://1drv.ms/x/c/659adb0f74c49bc1/EeT8nJ5kB0dMp9df7MJJzREBqwD1X6S0_qUZ6YhzNDlqrg?e=yCE6Ez) </br>
 ![](https://github.com/Bolajie/Project_1/blob/main/Screenshot%202025-02-13%20022854.png) </br>
 ![](https://github.com/Bolajie/Project_1/blob/main/pivot%201.png)![](https://github.com/Bolajie/Project_1/blob/main/pivot%202.png)
